@@ -1,0 +1,5 @@
+a = int(input("숫자1 입력 : "))
+b = int(input("숫자2 입력 : "))
+c = int(input("숫자3 입력 : "))
+print(a, ' + ', b, ' + ', c, ' = ', a+b+c)
+print(a, ' * ', b, ' * ', c, ' = ', a*b*c)
